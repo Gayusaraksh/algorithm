@@ -8,6 +8,8 @@ while num != 0:
     else:
         odd_num = odd_num + 1
     num = num // 10
+
+
 print("Even number count is ",even_num)
 print("Odd number count is ",odd_num)
 
